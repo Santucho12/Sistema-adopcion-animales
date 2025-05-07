@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
-using view; // esto importa la clase MascotaForm
+using view; // esto importa la clase Mascotaform
 
 namespace view
 {
@@ -11,7 +11,7 @@ namespace view
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new formMascota());
+            Application.Run(new formMascota() );
         }
     }
 }
