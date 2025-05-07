@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
-using view; // esto importa la clase Mascotaform
+using view; // esto importa la clase MascotaForm
 
 namespace view
 {
