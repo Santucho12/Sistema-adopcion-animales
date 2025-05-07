@@ -1,0 +1,15 @@
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\view\obj\Debug\view.csproj.AssemblyReference.cache
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\view\obj\Debug\view.Properties.Resources.resources
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\view\obj\Debug\view.csproj.GenerateResource.cache
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\view\obj\Debug\view.csproj.CoreCompileInputs.cache
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\view\bin\Debug\view.exe.config
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\view\bin\Debug\view.exe
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\view\bin\Debug\view.pdb
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\view\bin\Debug\data2.dll
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\view\bin\Debug\logic2.dll
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\view\bin\Debug\data2.pdb
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\view\bin\Debug\logic2.pdb
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\view\obj\Debug\view.csproj.Up2Date
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\view\obj\Debug\view.exe
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\view\obj\Debug\view.pdb
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\view\obj\Debug\view.formMascota.resources

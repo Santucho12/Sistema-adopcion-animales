@@ -1,0 +1,9 @@
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\logic2\bin\Debug\logic2.dll
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\logic2\bin\Debug\logic2.pdb
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\logic2\obj\Debug\logic.csproj.AssemblyReference.cache
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\logic2\obj\Debug\logic.csproj.CoreCompileInputs.cache
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\logic2\obj\Debug\logic2.dll
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\logic2\obj\Debug\logic2.pdb
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\logic2\bin\Debug\data2.dll
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\logic2\bin\Debug\data2.pdb
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\logic2\obj\Debug\logic.csproj.Up2Date

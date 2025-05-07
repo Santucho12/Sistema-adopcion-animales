@@ -1,0 +1,6 @@
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\data2\obj\Debug\data.csproj.AssemblyReference.cache
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\data2\obj\Debug\data.csproj.CoreCompileInputs.cache
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\data2\bin\Debug\data2.dll
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\data2\bin\Debug\data2.pdb
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\data2\obj\Debug\data2.dll
+C:\Users\AMDRYZEN7\Desktop\C#\logic\.vs\project\data2\obj\Debug\data2.pdb
